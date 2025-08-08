@@ -23,4 +23,4 @@ Also, I think bears 🐻 are awesome.
 
 ![Thibaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=durandtibo&show_icons=true&theme=swift)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durandtibo&layout=compact&theme=swift&hide=notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durandtibo&layout=compact&theme=swift&hide=Jupyter%20Notebook)
