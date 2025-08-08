@@ -24,7 +24,3 @@ Also, I think bears 🐻 are awesome.
 ![Thibaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=durandtibo&show_icons=true&theme=swift)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durandtibo&layout=compact&theme=swift&hide=notebook)
-
-<div align="center">
-  [![Visits](https://komarev.com/ghpvc/?username=durandtibo&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/durandtibo)
-</div>
