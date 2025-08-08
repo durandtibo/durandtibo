@@ -11,11 +11,12 @@ I enjoy coding, and this profile features a collection of code from my personal 
 Most of it is directly or indirectly related to machine learning. 
 I am particularly interested in developing better pipelines for training and evaluating machine learning models. 
 In my experience, flexibility and efficiency are critical for rapid experimentation and iteration, which are essential when designing and improving new ML models or algorithms.
+I do most of my coding in Python, and PyTorch is my favourite deep learning library. 
+
 You can learn more about me on [my website 🌐](https://durandtibo.github.io/) or connect with me on [LinkedIn 👥](https://www.linkedin.com/in/thibaut-durand-60568162/). 
 You can reach me via the email listed on my GitHub profile. 
 I'm always open to new ideas and opportunities. 
-
-When I’m not deep in code or research papers, I’m probably chasing a ball (basketball 🏀 or volleyball 🏐), running for fun 🏃 (or from bugs), hiking up a mountain ⛰️, or buried in a book 📖. 
+When I’m not deep in code or research papers, I’m probably chasing a ball (basketball 🏀, volleyball 🏐, or a rogue birdie 🏸), running for fun 🏃 (or from bugs), hiking up a mountain ⛰️, or buried in a book 📖. 
 Also, I think bears 🐻 are awesome.
 
 ## 📈 GitHub Stats
@@ -23,3 +24,7 @@ Also, I think bears 🐻 are awesome.
 ![Thibaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=durandtibo&show_icons=true&theme=swift)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durandtibo&layout=compact&theme=swift&hide=notebook)
+
+<div align="center">
+  [![Visits](https://komarev.com/ghpvc/?username=durandtibo&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/durandtibo)
+</div>
