@@ -3,7 +3,7 @@
 My name is pronounced like "Tibo". 
 
 I'm based in Vancouver, BC, Canada 🇨🇦. 
-I'm a Staff Machine Learning Researcher at [RBC Borealis](https://rbcborealis.com/) (formerly Borealis AI), where I work at the intersection of ML and finance, creating intelligent and human-centered systems that bring meaningful change to the future of banking. 
+I'm a Staff Machine Learning Researcher at [RBC Borealis](https://rbcborealis.com/) (formerly Borealis AI), where I work at the intersection of ML and finance, creating intelligent and human-centered systems that drive meaningful change to the future of banking. 
 Previously, I was a Postdoctoral Fellow in Computer Vision and Machine Learning at [Simon Fraser University](https://www.sfu.ca/), working under the supervision of [Greg Mori](https://www.cs.sfu.ca/~mori/). 
 I earned my PhD from [Sorbonne University](https://www.sorbonne-universite.fr/en) in Paris, France, where I was advised by [Matthieu Cord](https://cord.isir.upmc.fr/) and [Nicolas Thome](https://thome.isir.upmc.fr/).
 
